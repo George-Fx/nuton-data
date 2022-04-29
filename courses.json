@@ -5,11 +5,15 @@
             "name": "Learning Python for Data Analysis and Visualization",
             "location": "London Universiry",
             "duration": "5h  30m",
-            "thumbnail": "uri 'https://via.placeholder.com/270x270.png'",
+            "thumbnail": {
+                "uri": "https://via.placeholder.com/270x270.png"
+            },
             "image": {
                 "uri": "https://via.placeholder.com/270x270.png"
             },
-            "icon": "https://via.placeholder.com/600x600.png",
+            "icon": {
+                "uri": "https://via.placeholder.com/270x270.png"
+            },
             "price": "35.00",
             "rating": "5.0",
             "topRated": true,
@@ -22,9 +26,15 @@
             "name": "Learning Python for Data Analysis and Visualization",
             "location": "London Universiry",
             "duration": "5h  30m",
-            "thumbnail": "https://via.placeholder.com/270x270.png",
-            "image": "https://via.placeholder.com/690x360.png",
-            "icon": "https://via.placeholder.com/600x600.png",
+            "thumbnail": {
+                "uri": "https://via.placeholder.com/270x270.png"
+            },
+            "image": {
+                "uri": "https://via.placeholder.com/270x270.png"
+            },
+            "icon": {
+                "uri": "https://via.placeholder.com/270x270.png"
+            },
             "price": "35.00",
             "rating": "5.0",
             "topRated": true,
@@ -37,9 +47,15 @@
             "name": "Learning Python for Data Analysis and Visualization",
             "location": "London Universiry",
             "duration": "5h  30m",
-            "thumbnail": "https://via.placeholder.com/270x270.png",
-            "image": "https://via.placeholder.com/690x360.png",
-            "icon": "https://via.placeholder.com/600x600.png",
+            "thumbnail": {
+                "uri": "https://via.placeholder.com/270x270.png"
+            },
+            "image": {
+                "uri": "https://via.placeholder.com/270x270.png"
+            },
+            "icon": {
+                "uri": "https://via.placeholder.com/270x270.png"
+            },
             "price": "35.00",
             "rating": "5.0",
             "topRated": true,
