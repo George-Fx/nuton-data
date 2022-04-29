@@ -3,6 +3,7 @@
         {
             "id": "1",
             "name": "Learning Python for Data Analysis and Visualization",
+            "category": "Business",
             "location": "London Universiry",
             "duration": "5h  30m",
             "thumbnail": {
@@ -24,6 +25,7 @@
         {
             "id": "2",
             "name": "Learning Python for Data Analysis and Visualization",
+            "category": "Technology",
             "location": "London Universiry",
             "duration": "5h  30m",
             "thumbnail": {
@@ -45,6 +47,7 @@
         {
             "id": "3",
             "name": "Learning Python for Data Analysis and Visualization",
+            "category": "Digital Marketing",
             "location": "London Universiry",
             "duration": "5h  30m",
             "thumbnail": {
