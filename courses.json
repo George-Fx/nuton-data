@@ -17,7 +17,7 @@
             "price": "35.00",
             "rating": "5.0",
             "topRated": true,
-            "popular": false,
+            "popular": true,
             "isNew": true,
             "backgroundColor": "#9BA0FC"
         },
@@ -38,7 +38,7 @@
             "price": "35.00",
             "rating": "5.0",
             "topRated": true,
-            "popular": false,
+            "popular": true,
             "isNew": true,
             "backgroundColor": "#9BA0FC"
         },
@@ -59,7 +59,7 @@
             "price": "35.00",
             "rating": "5.0",
             "topRated": true,
-            "popular": false,
+            "popular": true,
             "isNew": true,
             "backgroundColor": "#9BA0FC"
         }
