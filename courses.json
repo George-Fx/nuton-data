@@ -66,5 +66,25 @@
             "isNew": true,
             "backgroundColor": "#9BA0FC"
         }
+    ],
+    "promo": [
+        {
+            "id": "1",
+            "image": {
+                "uri": "https://via.placeholder.com/1065x720.png"
+            }
+        },
+        {
+            "id": "2",
+            "image": {
+                "uri": "https://via.placeholder.com/1065x720.png"
+            }
+        },
+        {
+            "id": "3",
+            "image": {
+                "uri": "https://via.placeholder.com/1065x720.png"
+            }
+        }
     ]
 }
