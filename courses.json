@@ -1,0 +1,17 @@
+{
+    "courses": [
+        {
+            "id": "1",
+            "name": "Learning Python for Data Analysis and Visualization",
+            "location": "London Universiry",
+            "duration": "5h  30m",
+            "image": "https://via.placeholder.com/150",
+            "price": "35.00",
+            "rating": "5.0",
+            "topRated": true,
+            "popular": false,
+            "isNew": true,
+            "backgroundColor": "#9BA0FC"
+        }
+    ]
+}
